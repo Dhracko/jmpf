@@ -6,8 +6,13 @@ body {
     background-repeat: no-repeat;
 }
 
-h1 {
+h1,
+h2 {
     text-align: center;
     padding-top: 250px;
     text-transform: uppercase;
+}
+
+h2 {
+    margin-top: -250px;
 }
