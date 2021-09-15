@@ -1,0 +1,13 @@
+body {
+    background-image: url(../images/under_construction.jpg);
+    max-height: 1vmax;
+    background-size: cover;
+    opacity: 0.9;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 250px;
+    text-transform: uppercase;
+}
